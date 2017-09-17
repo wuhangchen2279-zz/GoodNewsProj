@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GoodNewsDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GoodNews">
+    <Key>
+      <PropertyRef Name="NewsId" />
+    </Key>
+    <Property Name="NewsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="NewsDate" Type="datetime" Nullable="false" />
+    <Property Name="JournalistId" Type="int" Nullable="false" />
+    <Property Name="Content" Type="nvarchar" MaxLength="1000" Nullable="false" />
+    <Property Name="ImageUrl" Type="nchar" MaxLength="50" />
+    <Property Name="NewsType" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Journalist">
+    <Key>
+      <PropertyRef Name="JournalistId" />
+    </Key>
+    <Property Name="JournalistId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullName" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Address" Type="nchar" MaxLength="100" />
+    <Property Name="Email" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ImageUrl" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_GoodNews_ToJournalist">
+    <End Role="Journalist" Type="Self.Journalist" Multiplicity="1" />
+    <End Role="GoodNews" Type="Self.GoodNews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Journalist">
+        <PropertyRef Name="JournalistId" />
+      </Principal>
+      <Dependent Role="GoodNews">
+        <PropertyRef Name="JournalistId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GoodNewsDBModelStoreContainer">
+    <EntitySet Name="GoodNews" EntityType="Self.GoodNews" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Journalist" EntityType="Self.Journalist" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_GoodNews_ToJournalist" Association="Self.FK_GoodNews_ToJournalist">
+      <End Role="Journalist" EntitySet="Journalist" />
+      <End Role="GoodNews" EntitySet="GoodNews" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

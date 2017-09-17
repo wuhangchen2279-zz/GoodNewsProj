@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="GoodNewsDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="GoodNews">
+          <Key>
+            <PropertyRef Name="NewsId" />
+          </Key>
+          <Property Name="NewsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Title" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="NewsDate" Type="datetime" Nullable="false" />
+          <Property Name="JournalistId" Type="int" Nullable="false" />
+          <Property Name="Content" Type="nvarchar" MaxLength="1000" Nullable="false" />
+          <Property Name="ImageUrl" Type="nchar" MaxLength="50" />
+          <Property Name="NewsType" Type="nchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Journalist">
+          <Key>
+            <PropertyRef Name="JournalistId" />
+          </Key>
+          <Property Name="JournalistId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FullName" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="PhoneNumber" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Address" Type="nchar" MaxLength="100" />
+          <Property Name="Email" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="ImageUrl" Type="nchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_GoodNews_ToJournalist">
+          <End Role="Journalist" Type="Self.Journalist" Multiplicity="1" />
+          <End Role="GoodNews" Type="Self.GoodNews" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Journalist">
+              <PropertyRef Name="JournalistId" />
+            </Principal>
+            <Dependent Role="GoodNews">
+              <PropertyRef Name="JournalistId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GoodNewsDBModelStoreContainer">
+          <EntitySet Name="GoodNews" EntityType="Self.GoodNews" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Journalist" EntityType="Self.Journalist" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_GoodNews_ToJournalist" Association="Self.FK_GoodNews_ToJournalist">
+            <End Role="Journalist" EntitySet="Journalist" />
+            <End Role="GoodNews" EntitySet="GoodNews" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GoodNewsDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="GoodNew">
+          <Key>
+            <PropertyRef Name="NewsId" />
+          </Key>
+          <Property Name="NewsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="NewsDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="JournalistId" Type="Int32" Nullable="false" />
+          <Property Name="Content" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ImageUrl" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="NewsType" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Journalist" Relationship="Self.FK_GoodNews_ToJournalist" FromRole="GoodNews" ToRole="Journalist" />
+        </EntityType>
+        <EntityType Name="Journalist">
+          <Key>
+            <PropertyRef Name="JournalistId" />
+          </Key>
+          <Property Name="JournalistId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FullName" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="PhoneNumber" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Address" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="ImageUrl" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="GoodNews" Relationship="Self.FK_GoodNews_ToJournalist" FromRole="Journalist" ToRole="GoodNews" />
+        </EntityType>
+        <Association Name="FK_GoodNews_ToJournalist">
+          <End Role="Journalist" Type="Self.Journalist" Multiplicity="1" />
+          <End Role="GoodNews" Type="Self.GoodNew" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Journalist">
+              <PropertyRef Name="JournalistId" />
+            </Principal>
+            <Dependent Role="GoodNews">
+              <PropertyRef Name="JournalistId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GoodNewsDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="GoodNews" EntityType="Self.GoodNew" />
+          <EntitySet Name="Journalists" EntityType="Self.Journalist" />
+          <AssociationSet Name="FK_GoodNews_ToJournalist" Association="Self.FK_GoodNews_ToJournalist">
+            <End Role="Journalist" EntitySet="Journalists" />
+            <End Role="GoodNews" EntitySet="GoodNews" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GoodNewsDBModelStoreContainer" CdmEntityContainer="GoodNewsDBEntities">
+          <EntitySetMapping Name="GoodNews">
+            <EntityTypeMapping TypeName="GoodNewsDBModel.GoodNew">
+              <MappingFragment StoreEntitySet="GoodNews">
+                <ScalarProperty Name="NewsId" ColumnName="NewsId" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="NewsDate" ColumnName="NewsDate" />
+                <ScalarProperty Name="JournalistId" ColumnName="JournalistId" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="ImageUrl" ColumnName="ImageUrl" />
+                <ScalarProperty Name="NewsType" ColumnName="NewsType" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Journalists">
+            <EntityTypeMapping TypeName="GoodNewsDBModel.Journalist">
+              <MappingFragment StoreEntitySet="Journalist">
+                <ScalarProperty Name="JournalistId" ColumnName="JournalistId" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="ImageUrl" ColumnName="ImageUrl" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

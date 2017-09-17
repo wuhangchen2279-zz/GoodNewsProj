@@ -1,0 +1,225 @@
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\ApplicationInsights.config
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\csc.exe
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\vbc.exe
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\VBCSCompiler.exe
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.dll.config
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.pdb
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Web.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.ApplicationInsights.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Newtonsoft.Json.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Net.Http.Formatting.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Helpers.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.WebHost.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Mvc.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Razor.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Deployment.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Razor.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Web.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.ApplicationInsights.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Razor.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Deployment.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Razor.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Helpers.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Mvc.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Newtonsoft.Json.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Net.Http.Formatting.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.WebHost.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.pdb
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\EntityFramework.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\EntityFramework.SqlServer.dll
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\EntityFramework.xml
+c:\users\dzou6\documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\EntityFramework.SqlServer.xml
+C:\Users\dzou6\Documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Antlr3.Runtime.dll
+C:\Users\dzou6\Documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Optimization.dll
+C:\Users\dzou6\Documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\WebGrease.dll
+C:\Users\dzou6\Documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\Antlr3.Runtime.pdb
+C:\Users\dzou6\Documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\bin\System.Web.Optimization.xml
+C:\Users\dzou6\Documents\visual studio 2015\Projects\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\ApplicationInsights.config
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\csc.exe
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\vbc.exe
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.dll.config
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.pdb
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Antlr3.Runtime.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\EntityFramework.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\EntityFramework.SqlServer.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Web.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Newtonsoft.Json.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Net.Http.Formatting.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Helpers.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.WebHost.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Mvc.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Optimization.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Razor.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Deployment.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Razor.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\WebGrease.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Antlr3.Runtime.pdb
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\EntityFramework.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\EntityFramework.SqlServer.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Web.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Optimization.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Razor.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Deployment.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Razor.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Helpers.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Mvc.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\Newtonsoft.Json.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Net.Http.Formatting.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.WebHost.xml
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.dll
+C:\Users\daniel\Documents\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.pdb
+G:\GoodNewsProj\GoodNewsProj\bin\ApplicationInsights.config
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\csc.exe
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\csc.exe.config
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\csc.rsp
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\csi.exe
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\csi.exe.config
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\csi.rsp
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.AppContext.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Collections.Immutable.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Console.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Diagnostics.Process.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.IO.Compression.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.IO.FileSystem.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.IO.Pipes.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Reflection.Metadata.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.AccessControl.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.Claims.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Security.Principal.Windows.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Threading.Thread.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.ValueTuple.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Xml.XmlDocument.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Xml.XPath.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\vbc.exe
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\vbc.exe.config
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\vbc.rsp
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\VBCSCompiler.exe
+G:\GoodNewsProj\GoodNewsProj\bin\roslyn\VBCSCompiler.exe.config
+G:\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.dll.config
+G:\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.dll
+G:\GoodNewsProj\GoodNewsProj\bin\GoodNewsProj.pdb
+G:\GoodNewsProj\GoodNewsProj\bin\Antlr3.Runtime.dll
+G:\GoodNewsProj\GoodNewsProj\bin\EntityFramework.dll
+G:\GoodNewsProj\GoodNewsProj\bin\EntityFramework.SqlServer.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.DependencyCollector.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Web.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.WindowsServer.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.ApplicationInsights.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.Web.Infrastructure.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Newtonsoft.Json.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Net.Http.Formatting.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Helpers.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.WebHost.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Mvc.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Optimization.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Razor.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Deployment.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.dll
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Razor.dll
+G:\GoodNewsProj\GoodNewsProj\bin\WebGrease.dll
+G:\GoodNewsProj\GoodNewsProj\bin\Antlr3.Runtime.pdb
+G:\GoodNewsProj\GoodNewsProj\bin\EntityFramework.xml
+G:\GoodNewsProj\GoodNewsProj\bin\EntityFramework.SqlServer.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.DependencyCollector.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.Web.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.AI.WindowsServer.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.ApplicationInsights.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Optimization.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Razor.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Deployment.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Webpages.Razor.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Helpers.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Mvc.xml
+G:\GoodNewsProj\GoodNewsProj\bin\Newtonsoft.Json.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Net.Http.Formatting.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.xml
+G:\GoodNewsProj\GoodNewsProj\bin\System.Web.Http.WebHost.xml
+G:\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.dll
+G:\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.pdb
+G:\GoodNewsProj\GoodNewsProj\obj\Debug\GoodNewsProj.csprojResolveAssemblyReference.cache
